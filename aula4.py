@@ -25,5 +25,7 @@ print(0.0) #float
 print(-1.5) #float
 
 # Função/Classe type():
-print(type('Gustavo'))
+print(type('Gustavo')) # string
+print(type(0)) # int
+print(type(1.1)) # float
 # normalmente chamada de função por conta de começar com letra minúscula, porém ela é uma classe.
